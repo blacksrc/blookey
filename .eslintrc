@@ -13,5 +13,8 @@
     "comma-dangle": "off",
     "indent": ["error", 2],
     "prefer-const": ["error"]
+  },
+  "parserOptions": {
+    "sourceType": "module"
   }
 }
